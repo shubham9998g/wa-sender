@@ -1,0 +1,99 @@
+{
+  "campaigns": {
+    "bd02d0a0-fb02-4cd3-be10-ce156292ff59": {
+      "id": "bd02d0a0-fb02-4cd3-be10-ce156292ff59",
+      "name": "test1",
+      "status": "draft",
+      "original_file_name": "test csv.csv",
+      "parsed_template": null,
+      "field_mapping": {
+        "destination": "phone",
+        "userName": "name",
+        "media": {
+          "media[0]": "file_name"
+        }
+      },
+      "total_records": 0,
+      "approved_records": 0,
+      "sent_count": 0,
+      "failed_count": 0,
+      "pending_count": 0,
+      "send_delay_ms": 1000,
+      "max_attempts": 3,
+      "created_at": "2026-09-17T06:15:02.204Z",
+      "updated_at": "2026-09-17T06:15:02.732Z"
+    },
+    "6aa7ab30-4d4a-4d6c-992f-36d92c8fe413": {
+      "id": "6aa7ab30-4d4a-4d6c-992f-36d92c8fe413",
+      "name": "test1",
+      "status": "draft",
+      "original_file_name": "test csv.csv",
+      "parsed_template": null,
+      "field_mapping": {
+        "destination": "phone",
+        "userName": "name",
+        "media": {
+          "media[0]": "file_name"
+        }
+      },
+      "total_records": 0,
+      "approved_records": 0,
+      "sent_count": 0,
+      "failed_count": 0,
+      "pending_count": 0,
+      "send_delay_ms": 1000,
+      "max_attempts": 3,
+      "created_at": "2026-09-17T06:57:48.202Z",
+      "updated_at": "2026-09-17T06:57:48.664Z"
+    },
+    "9e471036-3305-464c-a319-47ba32831fb9": {
+      "id": "9e471036-3305-464c-a319-47ba32831fb9",
+      "name": "new",
+      "status": "draft",
+      "original_file_name": "forms_Shubham_Gupta.csv",
+      "parsed_template": null,
+      "field_mapping": {
+        "destination": "phone",
+        "userName": "name",
+        "media": {
+          "media[0]": "file_name"
+        }
+      },
+      "total_records": 0,
+      "approved_records": 0,
+      "sent_count": 0,
+      "failed_count": 0,
+      "pending_count": 0,
+      "send_delay_ms": 1000,
+      "max_attempts": 3,
+      "created_at": "2026-09-17T06:58:36.853Z",
+      "updated_at": "2026-09-17T06:58:37.431Z"
+    },
+    "ed2bb69a-6345-4080-9e5b-cfd0a1b6429d": {
+      "id": "ed2bb69a-6345-4080-9e5b-cfd0a1b6429d",
+      "name": "Test Campaign",
+      "status": "draft",
+      "original_file_name": "test.csv",
+      "parsed_template": null,
+      "field_mapping": {},
+      "total_records": 1,
+      "approved_records": 0,
+      "sent_count": 0,
+      "failed_count": 0,
+      "pending_count": 1,
+      "send_delay_ms": 1000,
+      "max_attempts": 3,
+      "created_at": "2026-09-17T06:59:56.462Z",
+      "updated_at": "2026-09-17T06:59:56.462Z"
+    }
+  },
+  "records": {},
+  "media": {},
+  "events": [],
+  "worker": {
+    "id": "primary",
+    "last_seen": "2026-09-17T07:02:06.353Z",
+    "hostname": "localhost",
+    "active_campaigns": 0
+  }
+}

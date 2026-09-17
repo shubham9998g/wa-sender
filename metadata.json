@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Campaign Manager",
+  "description": "Production-ready generic WhatsApp campaign and document sender with cURL parsing, dynamic field mapping, media validation, Supabase persistence, and background worker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
